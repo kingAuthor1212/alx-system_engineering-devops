@@ -7,3 +7,4 @@ g
 change own of file
 creates empty file
 execute
+6-multiple_permissions
