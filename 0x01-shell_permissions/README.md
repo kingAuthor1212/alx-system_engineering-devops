@@ -8,3 +8,5 @@ change own of file
 creates empty file
 execute
 6-multiple_permissions
+Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
