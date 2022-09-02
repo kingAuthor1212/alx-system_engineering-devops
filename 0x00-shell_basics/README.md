@@ -18,3 +18,14 @@ Create a script that copies all the HTML files from the current working director
 Write a command that lists all the files and directories of the current directory, separated by commas (,).
 Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+Create a script that deletes all files in the current working directory that end with the character ~.>> 0x00-shell_basics/README.md
+q
+chmod u+x 0x00-shell_basics/101-clean_emacs
+exit
+dclear
+clear
+q
+exit
+exit
+ echo Create a script that deletes all files in the current working directory that end with the character ~.
+Create a script that deletes all files in the current working directory that end with the character ~.
