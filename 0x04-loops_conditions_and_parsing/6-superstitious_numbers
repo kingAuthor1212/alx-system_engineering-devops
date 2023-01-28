@@ -18,3 +18,4 @@ do
     esac
     ((i++))
 done
+i=$i
