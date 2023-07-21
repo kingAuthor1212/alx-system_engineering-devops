@@ -2,6 +2,6 @@
 #command makes user logged in as nginx
 sed -i "s/#user www-data/user nginx/" /etc/nginx.conf
 sed -i "s/8/8080/g" /etc/nginx/sites-available/default
-chomd 644 /etc/nginx/nginx.conf
+chomd 885 /etc/nginx/nginx.conf
 pkill apache2
 sudo -u nginx service nginx start
